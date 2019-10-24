@@ -3,15 +3,25 @@
 ---
 
 ### Work experience 
-
-<img class="logo" src ="images/side.jpeg" url="https://www.side.co/" alt="Side.co">
+<div>
+<img width=48px height=48px src ="images/side.jpeg" url="https://www.side.co/" alt="Side.co">
+<b> Data Engineer </b>
+</div>
 <img src="images/airflow.png"/>
 
-[compucorp.co.uk](https://www.compucorp.co.uk/)
+---
 
+<div>
+<img width=48px height=48px src ="images/compucorp.png" url="https://www.compucorp.co.uk/" alt="Compucorp Ltd">
+<b> Data Enginner </b>
+</div>
 
+---
 
-[Foodora](https://www.foodora.de/)
+<div>
+<img width=48px height=48px src ="images/compucorp.png" url="https://www.foodora.de/" alt="Foodora">
+<b> Data Enginner </b>
+</div>
 
 [Rocket Internet]()
 
