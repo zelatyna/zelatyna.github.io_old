@@ -5,7 +5,8 @@
 ### Work experience 
 
 [Side.co](https://www.side.co/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+{% include image.html file="side.jpeg" url="https://www.side.co/" alt="Side.co"%}
+<img src="images/airflow.png"/>
 
 ---
 [compucorp.co.uk](https://www.compucorp.co.uk/)
