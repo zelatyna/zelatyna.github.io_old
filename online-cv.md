@@ -1,40 +1,58 @@
+<style>
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
 ## Profesional Experience
 
 ---
 
 ### Work experience 
-<div>
+
+<div class="container">
 <img width="48" height="48" src ="images/side.jpeg" url="https://www.side.co/" alt="Side.co"/>
-<b> Data Engineer </b>
-</div>
+<div class="vertical-center"><b> Data Engineer </b> </div>
 <img src="images/airflow.png"/>
+</div>
+
 
 ---
 
-<div>
+<div class="container">
 <img width="48" height="48" src ="images/compucorp.png" url="https://www.compucorp.co.uk/" alt="Compucorp Ltd"/>
-<b> Data Enginner </b>
+<div class="vertical-center"><b> Data Enginner </b></div>
 </div>
 
 ---
 
-<div>
+<div class="container">
 <img width="48" height="48" src ="images/foodora.png" url="https://www.foodora.de/" alt="Foodora"/>
-<b> Datawarehouse Enginner </b>
+<div class="vertical-center"><b> Datawarehouse Enginner </b></div>
+
 </div>
 
 ---
 
-<div>
+<div class="container">
 <img width="48" height="48" src ="images/rocket.png" url="https://www.rocket-internet.com/" alt="Rocker Internet"/>
-<b> Data Team Intern </b>
+<div class="vertical-center"><b> Data Team Intern </b></div>
 </div>
 
 ---
 
-<div>
-<img width="48" height="48" src ="images/rocket.png" url="https://www.credit-suisse.com" alt="Credit Suisse"/>
-<b> Data System Analyst </b>
+<div class="container">
+<img width="48" height="48" src ="images/cs.png" url="https://www.credit-suisse.com" alt="Credit Suisse"/>
+<div class="vertical-center"><b> Data System Analyst </b></div>
 </div>
 
 ---
