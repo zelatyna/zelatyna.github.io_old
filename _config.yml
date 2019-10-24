@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Magdalena Sendal # your name (or website title) here
-logo: "/images/face.png?raw=true" # your photo (or logo) here
+logo: "/images/logo_circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Engineer / Data Scientist
   <br><br>
