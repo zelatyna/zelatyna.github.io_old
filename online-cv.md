@@ -1,8 +1,11 @@
 <style>
 .container {
-  height: 200px;
   position: relative;
-  border: 3px solid green;
+}
+.logo {
+  width: 48px;
+  height: 48px;
+  
 }
 
 .vertical-center {
@@ -13,18 +16,13 @@
   transform: translateY(-50%);
 }
 </style>
-## Profesional Experience
-
----
-
 ### Work experience 
 
 <div class="container">
-<img width="48" height="48" src ="images/side.jpeg" url="https://www.side.co/" alt="Side.co"/>
+<img class="logo" src ="images/side.jpeg" url="https://www.side.co/" alt="Side.co"/>
 <div class="vertical-center"><b> Data Engineer </b> </div>
 <img src="images/airflow.png"/>
 </div>
-
 
 ---
 
@@ -55,10 +53,10 @@
 <div class="vertical-center"><b> Data System Analyst </b></div>
 </div>
 
----
+### Education
+
 
 ### Personal Projects
 
-### Education
 
 ### Interest
