@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Magdalena Sendal # your name (or website title) here
 logo: "/images/logo_circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Engineer / Data Scientist
+  Freelance Data Engineer / Data Scientist
   <br><br>
 
   <br><br>
@@ -10,5 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>Contact:</b>
   magda.sendal@gmail.com
-  
+
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
