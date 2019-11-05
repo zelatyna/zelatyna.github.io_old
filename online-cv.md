@@ -25,6 +25,9 @@
   display: none;
   margin-top: 4px;
 }
+.tasks {
+    font-size:0.9em;
+}
 </style>
 
 
